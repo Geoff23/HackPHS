@@ -1,0 +1,68 @@
+body {
+  background-image: url('https://images.pond5.com/blue-programming-code-background-abstract-footage-090894338_prevstill.jpeg');
+  background-size: auto 100%;
+  font-family: arial;
+  color:white;
+  text-align: center;
+  margin: 0%;
+}
+
+header {
+  margin: 7.5% 10% 0% 10%;
+}
+
+h1 {
+  font-size: 60px;
+  margin: 20px;
+}
+
+h2 {
+  font-size: 48px;
+  margin: 20px;
+}
+
+article {
+  margin: 5% 20%;
+}
+
+h3 {
+  font-size: 36px;
+  margin: 20px;
+}
+
+#tiger { 
+  width: 33%;
+  margin: 20px;
+}
+
+p {
+  font-size: 24px;
+}
+
+hr {
+	margin: 90px 0px;
+}
+
+.game {
+	margin: 90px 0px;
+}
+
+footer {
+  padding: 10px 0px;
+  color:black;
+  text-align: center;
+  background-color: blanchedalmond;
+  border-top: 5px solid rgba(219, 169, 30, 0.61);
+} 
+
+iframe {
+	margin-bottom: 10px;
+}
+
+footer {
+  padding: 10px 0px;
+  color:black;
+  text-align: center;
+  background-color: blanchedalmond;
+  border-top: 5px solid rgba(219, 169, 30, 0.61);
+} 
